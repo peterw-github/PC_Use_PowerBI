@@ -23,7 +23,7 @@ few seconds).
 
 ## Dashboard
 A video of the dashboard working in real time, is available here: <br><br>
-[<img alt="YouTube Walkthrough" width="700" height=400 src="./Explanation_Video/Image_Video.PNG" />](https://youtu.be/KLuV2aJx-sc)
+[<img alt="YouTube Walkthrough" width="700" height=400 src="./Images&Video/Video_PreviewImage.PNG" />](https://youtu.be/KLuV2aJx-sc)
 
 <br>
 
